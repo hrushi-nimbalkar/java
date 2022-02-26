@@ -7,6 +7,6 @@ public class calc
         b=20;
         int c =a+b;
         System.out.println("the addition is" +c);
-        System.out.printnl("the sum is this");
+      
     }
 }
